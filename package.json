@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/rodiev/test/issues"
   },
-  "homepage": "https://github.com/rodiev/test#readme"
+  "homepage": "https://github.com/rodiev/test#readme",
+  "dependencies": {
+    "jquery": "^3.6.3"
+  }
 }
